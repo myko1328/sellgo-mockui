@@ -1,0 +1,35 @@
+.ui.menu .item img.logo {
+    margin-right: 1.5em;
+  }
+  
+.ui.fixed.menu {
+    background-color: #3B4557 !important;
+    padding: 0.9em;
+  }
+
+  .ui.main.container,
+  .main.segment {
+    margin-top: 7em;
+  }
+  
+  .ui.center.aligned.segment.attendance-preview {
+    background-color: #f5f5f5;
+  }
+  
+  .masthead .ui.menu .ui.button,
+  .ui.menu a.ui.inverted.button {
+    margin-left: 0.5em;
+  }
+    
+  .ui.menu:not(.vertical) .item>.button {
+    margin-left: 0.5em;
+  }
+
+  .ui.red.button {
+    background-color: #3B4557 !important;
+    border: 1px solid white;
+  }
+
+  .ui.red.left.pointing.basic.label {
+    color: blue;
+  }
